@@ -3,6 +3,8 @@ He/Him
 <br/>
 I'm currently a senior software engineer based in Lisbon. I'm working on some side projects, and I try to make code that people enjoy read :D
 <br/>
+I previously worked at Ze delivery, Brazil's biggest drink delivery app 
+<br/>
 <br/>
 
 
