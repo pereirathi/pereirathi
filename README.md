@@ -9,7 +9,7 @@ Focused on front-end and mobile development.
 
 My current tech stack is:
 
-Typescript | React | React Native 
+Typescript | React | React Native | Node
 <br/>
 
 
